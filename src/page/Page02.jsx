@@ -1,14 +1,14 @@
-import ichika_second_page_01 from "../assets/img/ichika_page02_01.png"
-import ichika_second_page_02 from "../assets/img/ichika_page02_02.png"
+import ichika_second_page_01 from "../assets/img/forest-page2-01.png"
+import ichika_second_page_02 from "../assets/img/forest-page2-02.png"
 
 export default function Page02(){
   return <>
-    <div className="h-screen bg-cover bg-blue-950 flex flex-col py-4 text-white overflow-x-hidden">
+    <div className="h-screen bg-cover bg-green-950 flex flex-col py-4 text-white overflow-x-hidden">
       <div className="basis-2/3 sm:basis-1/3 flex flex-row justify-center items-center">
         <h2
         data-aos="zoom-in"
         className="text-xl sm:text-4xl tracking-wide w-1/2 sm:w-1/3 text-center font-title">
-          Just Like Miku, I Want to be Able to Connect Everyone!
+          Oxygen is a miracle, right?
         </h2>
       </div>
       {/* <div 

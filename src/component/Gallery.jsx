@@ -15,7 +15,7 @@ export default function Gallery({title, images}){
   <div className="my-16">
     <h2
     data-aos="zoom-in"
-    className="text-xl tracking-wide w-1/3 font-title mb-2 text-blue-400"
+    className="text-xl tracking-wide w-1/3 font-title mb-2 text-green-400"
     >
       {title}
     </h2>

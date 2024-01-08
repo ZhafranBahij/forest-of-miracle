@@ -36,8 +36,8 @@ export default function App() {
       <Page03></Page03>
       <Page04></Page04>
 
-      <footer className="text-black bg-blue-400 px-4 py-2 text-center text-desc">
-        This is just a fan made web created by rainfog_mzb . All images belongs to Project Sekai and All information from Project Sekai Wiki.
+      <footer className="text-black bg-green-400 px-4 py-2 text-center text-desc">
+        Created by Zhafran Bahij. All images from Unsplash.
       </footer>
     </>
   )
